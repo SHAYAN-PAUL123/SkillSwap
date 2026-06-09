@@ -313,7 +313,7 @@ if(document.querySelector("#heading")){
 }
 updateTime();
 
-const API_URL = "http://localhost:3000";
+const API_URL = "https://skillswap-backend-s8x0.onrender.com";
 
 /* LOAD STUDENTS FROM BACKEND */
 
